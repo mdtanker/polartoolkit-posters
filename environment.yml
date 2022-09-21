@@ -8,5 +8,5 @@ dependencies:
   - ipyleaflet=0.17.1
   - pip
   - pip:
-    - antarctic_plots=0.0.4.2
+    - antarctic_plots==0.0.4.2
 prefix: C:\Users\matthewt\AppData\Local\miniforge3\envs\antarctic_plots_binder
