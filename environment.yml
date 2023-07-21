@@ -6,5 +6,5 @@ dependencies:
   - pygmt>=0.9.0
   - geopandas=0.11.0
   - ipyleaflet=0.17.1
-  - antarctic_plots>=0.0.6
+  - antarctic-plots>=0.0.6
 prefix: C:\Users\matthewt\AppData\Local\miniforge3\envs\antarctic_plots_binder
