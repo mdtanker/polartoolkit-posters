@@ -7,4 +7,5 @@ dependencies:
   - geopandas=0.11.0
   - ipyleaflet=0.17.1
   - antarctic-plots>=0.0.6
+  - tqdm
 prefix: C:\Users\matthewt\AppData\Local\miniforge3\envs\antarctic_plots_binder
