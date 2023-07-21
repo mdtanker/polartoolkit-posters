@@ -5,7 +5,7 @@ Matt Tankersley<sup>1,2</sup>
 > <sup>1</sup> Victoria University of Wellington<br>
 > <sup>2</sup> GNS Science<br> 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdtanker/SCAR_INSTANT_2022/v1.0?labpath=figures%2FPoster_plots.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdtanker/SCAR_INSTANT_2022/main?labpath=figures%2FPoster_plots.ipynb)
 
 ![](Tankersley_INSTANT_2022.png)
 
