@@ -1,11 +1,10 @@
 name: antarctic_plots_binder
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.10
-  - pygmt>=0.9.0
-  - geopandas=0.11.0
-  - ipyleaflet=0.17.1
-  - antarctic-plots>=0.0.6
-  - tqdm
-prefix: C:\Users\matthewt\AppData\Local\miniforge3\envs\antarctic_plots_binder
+  - python=3.11
+  - pygmt=0.10
+  - geopandas=0.14
+  - ipyleaflet=0.18
+  - antarctic-plots=0.0.6
