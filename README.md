@@ -2,7 +2,7 @@
 
 Matt Tankersley
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdtanker/SCAR_INSTANT_2022/main?labpath=figures%2FPoster_plots.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdtanker/antarctic-plots-posters/HEAD?labpath=Poster_plots.ipynb)
 
 This repo contains some of the materials used during various presentations of the Antarctic-Plots package at conferences.
 
