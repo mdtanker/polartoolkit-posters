@@ -30,6 +30,7 @@ Poster presented at:
 [Figshare link for the poster](https://doi.org/10.6084/m9.figshare.21183931.v3)
 
 ## version 2 of the poster
+![](poster_v2/antarctic_plots_poster_2023.png)
 Poster presented at:
 * AGU 2023
     * San Fransico, CA, USA
