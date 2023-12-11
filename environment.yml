@@ -5,14 +5,13 @@ channels:
 dependencies:
   - python=3.11
   # runtime
-  - pygmt=0.10
-  - geopandas=0.14
-  - ipyleaflet=0.18
-  - antarctic-plots=0.0.6
+  - antarctic-plots=0.1
   # interactive
   - geoviews=1.11
   - cartopy=0.22
   - ipyleaflet=0.18
   - ipython=8.18
+  - ipykernel
   # viz
   - seaborn=0.13
+
