@@ -135,6 +135,38 @@ fig.show()
 
 ```python
 # download data
+ice_thickness = fetch.bedmap2(
+    layer="thickness",
+    region=regions.amery_ice_shelf,
+)
+
+# plot map
+fig = maps.plot_grd(
+    ice_thickness,
+    fig_height=12,
+    cmap="dense",
+    grd2cpt=True,
+    coast=True,
+    title="Amery Ice Shelf",
+    cbar_label="Ice thickness",
+    cbar_unit="m",
+    inset=True,
+    inset_width=.2,
+    scalebar=True,
+    scale_position="n.75/-.07",
+    gridlines=True,
+    x_spacing=10,
+    y_spacing=2,
+    hist=True,
+    hist_bin_num=100,       
+)
+
+# display
+fig.show()
+```
+
+```python
+# download data
 gravity = fetch.gravity(
     version="antgg-update",
     anomaly_type="BA",
