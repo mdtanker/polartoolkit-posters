@@ -1,17 +1,17 @@
-# Antarctic-Plots: A Python package to help download, visualize, and present Antarctic datasets
+# PolarToolkit: A Python package to help download, visualize, and present polar datasets
 
 Matt Tankersley
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdtanker/antarctic-plots-posters/HEAD?labpath=Poster_plots.ipynb)
 
-This repo contains some of the materials used during various presentations of the Antarctic-Plots package at conferences.
+This repo contains some of the materials used during various presentations of the PolarToolkit (previously Antarctic-Plots) package at conferences.
 
 The main notebook, which can be run online with the above Binde link, is [Poster_plots.ipynb](Poster_plots.ipynb).
 
-See the [Antarctic-Plots website here](https://antarctic-plots.readthedocs.io/en/latest/).
-See the [Antarctic-Plots GitHub and sourcecode here](https://github.com/mdtanker/antarctic_plots).
+See the [PolarToolkit website here](https://polartoolkit.readthedocs.io/en/latest/).
+See the [PolarToolkit GitHub and source code here](https://github.com/mdtanker/polartoolkit).
 
-If you want to run the notebook locally, you can install the same environment used in the Binder ```make install```.
+If you want to run the notebook locally, you can install the same environment used in the Binder with ```make install```.
 
 ## version 1 of the poster
 ![](poster_v1/Tankersley_INSTANT_2022.png)
