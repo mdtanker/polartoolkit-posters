@@ -1,11 +1,12 @@
-name: antarctic_plots_binder
+name: polartoolkit_binder
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python=3.11
   # runtime
-  - antarctic-plots=0.1
+  - polartoolkit=0.4
+  - geopandas<1.0
   # interactive
   - geoviews=1.11
   - cartopy=0.22
@@ -14,4 +15,7 @@ dependencies:
   - ipykernel
   # viz
   - seaborn=0.13
+  # - pip
+  # pip:
+  #   -U --pre --extra-index-url https://test.pypi.org/simple/ pygmt
 
