@@ -9,7 +9,7 @@ dependencies:
   # - cartopy=0.23
   # # interactive
   # - geoviews=1.12
-  # - ipyleaflet=0.19
+  - ipyleaflet=0.19
   # - ipython=8.25
   # # viz
   # - seaborn=0.13
