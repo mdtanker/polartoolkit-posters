@@ -16,7 +16,7 @@ If you want to run the notebook locally, you can install the same environment us
 # Posters
 
 ## version 3
-![](poster_v3/polartoolkit_poster_v3.png)
+![](poster_v3/polartoolkit_poster_v3.svg)
 Poster presented at:
 * SCAR Open Science Conference
     * Pucon, Chile
