@@ -2,7 +2,7 @@
 
 Matt Tankersley
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdtanker/polartoolkit-posters/HEAD?labpath=Poster_plots.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdtanker/polartoolkit-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmdtanker%252Fpolartoolkit-posters%26urlpath%3Dtree%252Fpolartoolkit-posters%252FPoster_plots.ipynb%26branch%3Dmain)
 
 This repo contains some of the materials used during various presentations of the PolarToolkit (previously Antarctic-Plots) package at conferences.
 
