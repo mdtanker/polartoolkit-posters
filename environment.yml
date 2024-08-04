@@ -1,0 +1,18 @@
+name: polartoolkit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  # - polartoolkit
+  # - pygmt=0.12
+  # - geopandas=0.14
+  # - cartopy=0.23
+  # # interactive
+  # - geoviews=1.12
+  # - ipyleaflet=0.19
+  # - ipython=8.25
+  # # viz
+  # - seaborn=0.13
+  - pip
+  - pip:
+    - polartoolkit==0.5
