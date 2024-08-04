@@ -1,20 +1,19 @@
 name: polartoolkit_binder
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.11
   # runtime
   - polartoolkit=0.4
   - geopandas<1.0
   # interactive
-  - geoviews=1.11
-  - cartopy=0.22
-  - ipyleaflet=0.18
-  - ipython=8.18
+  - geoviews
+  - cartopy
+  - ipyleaflet
+  - ipython
   - ipykernel
   # viz
-  - seaborn=0.13
+  - seaborn
   # - pip
   # pip:
   #   -U --pre --extra-index-url https://test.pypi.org/simple/ pygmt
