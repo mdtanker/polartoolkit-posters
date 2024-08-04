@@ -5,7 +5,7 @@ dependencies:
   - python=3.11
   # - polartoolkit
   - pygmt=0.12
-  # - geopandas=0.14
+  - geopandas>1.0
   # - cartopy=0.23
   # # interactive
   # - geoviews=1.12
