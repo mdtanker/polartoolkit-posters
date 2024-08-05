@@ -15,4 +15,4 @@ dependencies:
   # - seaborn=0.13
   - pip
   - pip:
-    - polartoolkit==0.5
+    - polartoolkit==0.5.1
